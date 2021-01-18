@@ -1,0 +1,4 @@
+#Mon Jan 18 21:34:52 EET 2021
+base.0=D\:\\andorid\\projects\\earthapp\\earth\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
